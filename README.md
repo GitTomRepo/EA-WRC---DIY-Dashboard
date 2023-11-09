@@ -11,4 +11,4 @@ The main things to achieve this task are :
   5. Transform these datas into a TFT screen display (tricky UI here ...)
   6. Enjoy the dashboard now !
 
-I am new here with UDP protocol, and not familiar with the socket packet on python... So please be cool, and if you find better way to do things (like get this f*****g UDP bytes) do a pull 
+I am new here with UDP protocol, and not familiar with the socket packet on python... So please be cool, and if you find better way to do things (like get this f*****g UDP bytes) do a pullrequest ! 
